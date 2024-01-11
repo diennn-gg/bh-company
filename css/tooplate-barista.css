@@ -962,3 +962,12 @@ strong {
   }
 }
 
+.btn-click-here {
+  border: 1px solid #ffbd75;
+  background: #fff;
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: var(--font-weight-bold);
+  border-radius: 10px;
+  text-transform: uppercase;
+}
